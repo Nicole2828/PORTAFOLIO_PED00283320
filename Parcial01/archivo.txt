@@ -1,0 +1,2 @@
+suma es: 10 
+promedio es: 3.33333
